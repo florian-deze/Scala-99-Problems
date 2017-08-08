@@ -3,6 +3,7 @@
  All those problems can be found on the website : http://aperiodic.net/phil/scala/s-99/
  Some resolution can be found on this website too, but I tried to find others answers.
  On purpose I write some function even if they already exist in Scala.
+ The Order of difficulty is (*) which is simple (around 15 minutes to resolve) to (***) which is the most difficult and can take few hours or more to find a good solution. 
 
  Problem 1 : Find the last element of a list
 
